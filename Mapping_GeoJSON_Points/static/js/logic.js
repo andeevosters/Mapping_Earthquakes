@@ -26,7 +26,7 @@ let sanFranAirport =
 ]};
 
 // Grabbing our GeoJSON data.
-// Just comment this group of code back in after commenting out the onEachFeature (it's on or the other).
+// Just comment this group of code back in after commenting out the onEachFeature (it's one or the other).
 // L.geoJson(sanFranAirport, {
 //   // We turn each feature into a marker on the map.
 //   pointToLayer: function(feature, latlng) {
